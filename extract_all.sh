@@ -1,0 +1,15 @@
+python scripts/extract_filters.py --input_dir=ckpts/resnet_6 --output_dir=filters --model=resnet50
+python scripts/extract_filters.py --input_dir=ckpts/resnet_7 --output_dir=filters --model=resnet50
+python scripts/extract_filters.py --input_dir=ckpts/resnet_8 --output_dir=filters --model=resnet50
+python scripts/extract_filters.py --input_dir=ckpts/resnet_9 --output_dir=filters --model=resnet50
+python scripts/extract_filters.py --input_dir=ckpts/resnet_10 --output_dir=filters --model=resnet50
+python scripts/extract_filters.py --input_dir=ckpts/vgg19_6 --output_dir=filters --model=vgg19
+python scripts/extract_filters.py --input_dir=ckpts/vgg19_7 --output_dir=filters --model=vgg19
+python scripts/extract_filters.py --input_dir=ckpts/vgg19_8 --output_dir=filters --model=vgg19
+python scripts/extract_filters.py --input_dir=ckpts/vgg19_9 --output_dir=filters --model=vgg19
+python scripts/extract_filters.py --input_dir=ckpts/vgg19_10 --output_dir=filters --model=vgg19
+python scripts/extract_filters.py --input_dir=ckpts/alexnet_6 --output_dir=filters --model=alexnet
+python scripts/extract_filters.py --input_dir=ckpts/alexnet_7 --output_dir=filters --model=alexnet
+python scripts/extract_filters.py --input_dir=ckpts/alexnet_8 --output_dir=filters --model=alexnet
+python scripts/extract_filters.py --input_dir=ckpts/alexnet_9 --output_dir=filters --model=alexnet
+python scripts/extract_filters.py --input_dir=ckpts/alexnet_10 --output_dir=filters --model=alexnet

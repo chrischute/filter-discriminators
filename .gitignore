@@ -1,0 +1,14 @@
+.DS_Store
+papers/
+writeups/
+filters/
+data/
+ckpts/
+imgs/
+logs/
+
+.texpadtmp
+__pycache__
+*.pyc
+*.tar.gz
+.idea/
